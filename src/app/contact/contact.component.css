@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo&family=Belanosima&family=IBM+Plex+Sans&family=Inter:wght@200&family=Lato:wght@300&family=Noto+Serif+Ottoman+Siyaq&family=Nunito:wght@300&family=Open+Sans&family=Pathway+Extreme:wght@300&family=Roboto+Condensed&family=Roboto+Slab&family=Ysabeau+SC:wght@600&display=swap');
+
+.parent_contact{
+  background-color: #302c3c;
+}
+.content_contact{
+  width:75%;
+  margin: 0px auto;
+  overflow: hidden;
+  background-color: #302c3c; 
+}
+.cm{
+  color: white;
+  text-align: center;
+  font-size: 40px;
+  font-family: 'Arimo', sans-serif;
+  margin:30px 0px 50px;
+}
+.left{
+  float: left;
+  width:30%;
+}
+.left_sub{
+  background-color: #282434;
+  padding:20px 0px;
+}
+.phone{
+  padding: 20px 20px 20px 20px;
+  margin: 60px 40px;
+  color: white;
+  background-color: #302c3c;
+}
+.phone p{
+  color: rgb(248, 188, 188)
+}
+.mail{
+  padding: 20px 20px 20px 20px;
+  margin: 60px 40px;
+  color: white;
+  background-color: #302c3c;
+}
+.mail p{
+  font-size: 15px;
+  color: rgb(248, 188, 188)
+}
+.website{
+  padding: 20px 20px 20px 20px;
+  margin: 60px 40px;
+  color: white;
+  background-color: #302c3c;
+}
+.website p{
+  color:  rgb(248, 188, 188)
+}
+.followme{
+  margin:40px 0px;
+  width:342px;
+  text-align: center;
+  padding: 50px 0px;
+  color:white;
+  font-size: 40px;
+  background-color:#282434; ;
+}
+.right{
+  width:70%;
+  float: left;
+}
+.gt{
+  padding:30px 87px;
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+  color: rgb(248, 188, 188);
+}
+span{
+  margin-right:15px;
+}
+.right_content{
+  padding:30px 87px;
+  font-size: 55px;
+  font-family: 'IBM Plex Sans', sans-serif;
+  color: white;
+}
+.form{
+  margin:30px 87px;
+}
+input[type=text]{
+  width:150px;
+  font-size: 15px;
+  border: 1px solid rgb(93, 93, 93); ;
+  padding: 25px 95px 25px 25px;
+  margin:20px;
+  background-color: #302c3c;
+}
+input[type=number]{
+  width:150px;
+  font-size: 15px;
+  border: 1px solid rgb(93, 93, 93); ;
+  padding: 25px 95px 25px 25px;
+  margin:20px;
+  background-color: #302c3c;
+}
+input[type=email]{
+  width:150px;
+  font-size: 15px;
+  border: 1px solid rgb(93, 93, 93); ;
+  padding: 25px 95px 25px 25px;
+  margin:20px;
+  background-color: #302c3c;
+}
+.formbot textarea{
+  width:580px;
+  font-size: 20px;
+  border: 1px solid rgb(93, 93, 93); ;
+  padding: 25px 410px 25px 25px;
+  margin:20px;
+  color:  rgb(252, 162, 162);
+  background-color: #302c3c;
+  box-sizing: border-box;
+  resize: none;
+}
+button{
+  margin:20px;
+  padding: 20px 60px;
+  font-family: 'Pathway Extreme', sans-serif;
+  font-size: 15px;
+  color: rgb(248, 188, 188);
+  background-color: #302c3c;
+  border: 1px solid rgb(93, 93, 93); 
+  border-radius: 30px;
+}

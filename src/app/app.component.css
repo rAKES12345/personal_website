@@ -1,0 +1,191 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo&family=Belanosima&family=IBM+Plex+Sans&family=Inter:wght@200&family=Lato:wght@300&family=Noto+Serif+Ottoman+Siyaq&family=Nunito:wght@300&family=Open+Sans&family=Pathway+Extreme:wght@300&family=Roboto+Condensed:wght@300;400&family=Roboto+Slab&family=Rubik&family=Ysabeau+SC:wght@600&display=swap');
+#logo{
+  margin-top:5px;
+  margin-left: 0px !important;
+  padding-left:0px !important;
+  font-family: 'Ysabeau SC', sans-serif;
+  font-size: 30px;
+  color: white;
+}
+span{
+  color: white;
+}
+#hire{
+  border: 1px solid rgb(150, 149, 149);
+  border-radius: 30px;
+  padding: 20px 35px;
+}
+#hire:hover{
+  color:white;
+  border: none;
+  background-color: #282434;
+}
+#hire a{
+  color:white;
+}
+#home{
+  border-radius: 30px;
+  padding: 15px 35px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#home:hover{
+  color:white;
+  background-image:url(../assets/f1hover.png);
+  background-repeat: no-repeat;
+  display:inline-block;
+  white-space:nowrap;
+}
+#services{
+  border-radius: 30px;
+  padding: 15px 35px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#services:hover{
+  color:white;
+  background-image:url(../assets/f1hover.png);
+  background-repeat: no-repeat;
+  display:inline-block;
+  white-space:nowrap;
+}
+#about{
+  border-radius: 30px;
+  padding: 15px 35px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#about:hover{
+  color:white;
+  background-image:url(../assets/f1hover.png);
+  background-repeat: no-repeat;
+  display:inline-block;
+  white-space:nowrap;
+}
+#projects{
+  border-radius: 30px;
+  padding: 15px 35px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#projects:hover{
+  color:white;
+  background-image:url(../assets/f1hover.png);
+  background-repeat: no-repeat;
+  display:inline-block;
+  white-space:nowrap;
+}
+#contact{
+  border-radius: 30px;
+  padding: 15px 35px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#contact:hover{
+  color:white;
+  background-image:url(../assets/f1hover.png);
+  background-repeat: no-repeat;
+  display:inline-block;
+  white-space:nowrap;
+}
+.list{
+}
+.parent_page{
+  background-color:rgba(42,44,57,255);
+}
+.parent_menu{
+  width:100%;
+  padding-top:15px;
+  margin:0px auto;
+  position: fixed;
+  font-size: 20px;
+  padding-bottom:15px;
+  padding-left: 155px;
+  background-color:rgba(42,44,57,255);
+}
+.list{
+}
+.list ul{
+  overflow: hidden;
+}
+.list ul li{
+  list-style-type: none;
+  float: left;
+  padding: 0px 40px;
+  margin:0px 15px 0px 0px;
+}
+a{
+  text-decoration: none;
+  color: rgb(191, 188, 188);
+}
+.footer_parent{
+  background-color:rgba(37,39,52,255);
+}
+.footer{
+  margin:0px auto;
+  width:75%;
+  background-color:rgba(37,39,52,255);
+}
+.gtupdates{
+  padding: 60px 0px;
+  color: rgb(140, 138, 138);
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.gtupdates span{
+  margin-right: 20px;
+}
+.input1{
+  margin-left:180px;
+}
+input[type=email]{
+  color: rgb(191, 188, 188);
+  padding: 25px 320px 25px 50px;
+  border-radius: 50px;
+  border: 1px solid rgb(93, 93, 93); 
+  background-color: rgba(37,39,52,255);
+}
+button{
+  border:none;
+  color: white;
+  padding: 25px 50px;
+  margin-left: 30px;
+  border-radius: 50px;
+  background-color:rgba(42,44,57,255);
+}
+.contact_details{
+  overflow: hidden;
+  width:70%;
+  margin: 0px auto !important;
+  padding:60px 0px;
+}
+.number{
+  float: left;
+  font-size: 30px;
+  color: white;
+  font-family: 'Inter', sans-serif;
+}
+.mail{
+  float: left;
+  font-size: 30px;
+  font-family: 'Inter', sans-serif;
+  color: white;
+  padding:0px 0px 0px 40px;
+}
+.copyrights{
+  margin:0px auto;
+  width:75%;
+  overflow: hidden;
+  background-color:rgba(37,39,52,255);
+}
+.line1{
+  float: left;
+  font-size: 15px;
+  color: rgb(140, 138, 138);
+  font-family: 'Rubik', sans-serif;
+  padding: 30px 0px 15px 0px;
+}
+.logo{
+  float: left;
+  font-family: 'Ysabeau SC', sans-serif;
+  font-size: 30px;
+  color: white;
+  padding:15px 0px 15px 600px;
+}
+

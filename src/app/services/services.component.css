@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Belanosima&family=Inter:wght@200&family=Lato:wght@300&family=Noto+Serif+Ottoman+Siyaq&family=Nunito:wght@300&family=Roboto+Condensed&family=Roboto+Slab&family=Ysabeau+SC:wght@600&display=swap');
+*{
+  background-color: rgb(48,44,60);
+}
+.second_page{
+  width:100%;
+  padding-top:55px;
+}
+.second_slide{
+  width:75%;
+  margin: 0px auto;
+  color: white;
+  padding-bottom: 50px;
+  background-color: rgb(48,44,60); 
+}
+#one{
+  color:rgb(181, 180, 179);
+  font-family: 'Lato', sans-serif;
+  font-size:25px;
+  margin-top: 0px;
+  padding-top:50px ;
+}
+span{
+  margin-right: 10px;
+}
+#two{
+  margin-top:25px;
+  font-size: 55px;
+  font-family: 'Roboto Slab', serif;
+  color:white;
+}
+.three{
+  width:600px;
+  margin:0px 270px;
+  border-radius: 15px;
+  background-color: rgba(37,39,52,255);
+}
+#threeid{
+  text-align: center;
+  padding-top:25px;
+  font-size: 30px;
+  font-family: 'Noto Serif Ottoman Siyaq', serif;
+  background-color: rgba(37,39,52,255);
+}
+.three ul{
+  width:195px;
+  margin: 0px auto;
+  list-style-type:none;
+  font-size:17px;
+  font-family: 'Roboto Condensed', sans-serif;
+  color: rgb(191, 188, 188);
+  background-color: rgba(37,39,52,255);
+}
+.three ul li{
+  padding-bottom: 20px;
+  background-color: rgba(37,39,52,255);
+}
